@@ -1,0 +1,21 @@
+{
+  "name": "ImageShare",
+  "displayName": "ImageShare",
+  "expo": {
+    "name": "ImageShare",
+    "slug": "ImageShare",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.unpluggedbox.ImageShare"
+    }
+  }
+}
